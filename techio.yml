@@ -2,8 +2,9 @@ title: Node.js Project
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
-- title: PAGE
+- title: Autrement
   statement: markdowns/PAGE.md
+projects:
   nodejs:
     root: /nodejs-project
     runner:
