@@ -3,8 +3,8 @@ plan:
 - title: Welcome
   statement: markdowns/welcome.md
 - title: PAGE
-projects: markdowns/PAGE.md
-  nodejs: 
+  statement: markdowns/PAGE.md
+  nodejs:
     root: /nodejs-project
     runner:
       name: techio/node-npm-runner
