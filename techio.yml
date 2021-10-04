@@ -5,7 +5,7 @@ plan:
 - title: page
   statement: markdowns/PAGE.md
 - title: page1
-  statement: markdowns/PAGE1.md
+  statement: markdowns/PAGE2.md
 projects:
   nodejs:
     root: /nodejs-project
