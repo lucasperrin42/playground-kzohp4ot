@@ -3,7 +3,7 @@
   <head>
     <title>Dire bonjour avec JavaScript (5 juillet 2006)</title>
     <script type="text/javascript">
-    // Ici on definit une fonction JavaScript
+    // JavaScript
     function direBonjour() {
       alert("Bonjour cher lecteur !!! ")
     }
@@ -15,9 +15,11 @@
       Cette page montre comment lancer une simple fonction JavaScript.<br/><br/>
       Rechargez la page pour voir encore une fois l'effet.
       <script type="text/javascript">
-      // Ici on apelle la fonction
+      //apelle la fonction
       direBonjour()
-      </script>
+      </script type="text/javascript">
+direBonjour()
+</script>
     </div>
   </body>
 </html>
