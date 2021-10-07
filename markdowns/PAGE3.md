@@ -9,3 +9,7 @@
     </body>
 </html>
 ```
+
+     ```JAVASCRIPT Runnable
+      alert("Bonjour cher lecteur !!! ")
+      ```
