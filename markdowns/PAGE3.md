@@ -1,3 +1,4 @@
+```HTML
 <html>
     <head>
         <title>Hello World!</title>
@@ -7,3 +8,4 @@
         <p>This page is served by the static viewer</p>
     </body>
 </html>
+```
