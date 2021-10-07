@@ -1,4 +1,4 @@
-```HTML
+```HTML RUNNABLE
 <html>
     <head>
         <title>Hello World!</title>
