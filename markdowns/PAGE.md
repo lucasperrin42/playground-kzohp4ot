@@ -5,7 +5,9 @@
     <script type="text/javascript">
     // JavaScript
     function direBonjour() {
+        ```JAVASRIPT Runnable
       alert("Bonjour cher lecteur !!! ")
+      ```
     }
     </script>
   </head>
