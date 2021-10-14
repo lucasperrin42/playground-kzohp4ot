@@ -10,6 +10,6 @@
 </html>
 ```
 
-     ```JSCRIPT Runnable
+     ```JS Runnable
       alert("Bonjour cher lecteur !!! ")
       ```
